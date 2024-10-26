@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\bin\Debug\FutbolFormUyg.exe.config
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\bin\Debug\FutbolFormUyg.exe
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\bin\Debug\FutbolFormUyg.pdb
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\obj\Debug\FutbolFormUyg.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\obj\Debug\FutbolFormUyg.Form1.resources
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\obj\Debug\FutbolFormUyg.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\obj\Debug\FutbolFormUyg.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\obj\Debug\FutbolFormUyg.exe
+C:\Users\user\Desktop\10-M\FutbolFormUyg\FutbolFormUyg\obj\Debug\FutbolFormUyg.pdb
